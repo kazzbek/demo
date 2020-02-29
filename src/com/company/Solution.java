@@ -24,6 +24,7 @@ public class Solution {
         ii = scan.nextInt();
         dd = scan.nextDouble();
         scan.nextLine();
+        //some comment
         ss = scan.nextLine();
         // Note: If you have trouble reading the entire String, please go back and review the Tutorial closely.
 
